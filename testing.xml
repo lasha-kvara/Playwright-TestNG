@@ -1,0 +1,10 @@
+<suite name="PlaywrightTests">
+    <listeners>
+        <listener class-name="src/main/java/org/example/utils.ExtentReportListener" />
+    </listeners>
+    <test name="Login Tests">
+        <classes>
+            <class name="src/test/java/Tests/LoginTests" />
+        </classes>
+    </test>
+</suite>
