@@ -6,9 +6,13 @@ Prerequisites
 Before setting up the project, ensure you have the following tools installed on your machine:
 
 Java Development Kit (JDK): Version 22.0.2 or higher
+
 TestNG: Version 7.8.0 or higher
+
 Apache Maven: Version 3.10.1 or higher
+
 Playwright: Version 1.46.0 or higher
+
 IntelliJ IDEA (or any other Java IDE): Optional but recommended for code editing and running the tests
 
 
